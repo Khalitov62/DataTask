@@ -1,0 +1,39 @@
+.content {
+  margin-top: 5%;
+}
+
+.text span {
+  color: #706d6d;
+  font-family: sans-serif;
+}
+
+.price {
+  font-size: 25px;
+  color: #eb9e0f;
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+  color: #706d6d;
+  font-family: sans-serif;
+}
+
+.shop-info li:nth-child(1) {
+  color: orange;
+}
+
+.icon {
+  color: #f1dc1c;
+}
+
+input {
+  width: 80px !important;
+}
+
+.icone {
+  font-size: 25px;
+  margin-left: 95%;
+  color: #393838;
+}
+/*# sourceMappingURL=style.css.map */

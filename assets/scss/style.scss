@@ -1,0 +1,38 @@
+.content {
+    margin-top: 5%;
+  }
+  .text {
+    span {
+      color: rgb(112, 109, 109);
+      font-family: sans-serif;
+    }
+  }
+  .price {
+    font-size: 25px;
+    color: rgb(235, 158, 15);
+    font-weight: bold;
+  }
+  
+  li {
+    list-style: none;
+    color: rgb(112, 109, 109);
+    font-family: sans-serif;
+  }
+  
+  .shop-info {
+    li:nth-child(1) {
+      color: orange;
+    }
+  }
+  
+  .icon {
+    color: rgb(241, 220, 28);
+  }
+  input {
+    width: 80px !important;
+  }
+  .icone{
+      font-size: 25px;
+      margin-left: 95%;
+      color: rgb(57, 56, 56);
+  }
